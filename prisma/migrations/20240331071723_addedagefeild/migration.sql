@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Student" ADD COLUMN     "Age" INTEGER NOT NULL DEFAULT 0;
